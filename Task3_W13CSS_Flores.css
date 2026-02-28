@@ -1,0 +1,11 @@
+canvas {
+    border:1px solid #d3d3d3;
+    background-color: #f1f1f1;
+    text-align: center;
+    display: block;
+    margin: 20px auto;
+}
+
+.leftcolumn {
+    text-align: center;
+}
